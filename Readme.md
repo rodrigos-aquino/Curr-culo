@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-> https://rajaprerak.github.io/
+> https://github.com/rodrigos-aquino
 
 :star: Star me on GitHub — it helps!
 
